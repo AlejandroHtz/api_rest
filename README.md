@@ -9,3 +9,5 @@ php artisan migrate
 
 
 con esto ya se podra abrir el proyecto
+
+Solo pude terminar hasta la api rest
